@@ -1,0 +1,165 @@
+{
+    "teams": ["SRH", "KKR"],
+    "players_list":
+    [
+        {
+            "id": 1,
+            "name": "Kartick",
+            "type": "wk",
+            "value": 8.5,
+            "team": "KKR"
+        },
+        {
+            "id": 2,
+            "name": "rana",
+            "type": "bat",
+            "value": 9,
+            "team": "KKR"
+        },
+        {
+            "id": 3,
+            "name": "gill",
+            "type": "bat",
+            "value": 9.5,
+            "team": "KKR"
+        },
+        {
+            "id": 4,
+            "name": "morgan",
+            "type": "bat",
+            "value": 9.5,
+            "team": "KKR"
+        },
+        {
+            "id": 5,
+            "name": "tripati",
+            "type": "bat",
+            "value": 8.5,
+            "team": "KKR"
+        },
+        {
+            "id": 6,
+            "name": "russel",
+            "type": "all",
+            "value": 10,
+            "team": "KKR"
+        },
+        {
+            "id": 7,
+            "name": "cummins",
+            "type": "bowl",
+            "value": 9,
+            "team": "KKR"
+        },
+        {
+            "id": 8,
+            "name": "chakravarty",
+            "type": "bowl",
+            "value": 8,
+            "team": "KKR"
+        },
+        {
+            "id": 9,
+            "name": "mavi",
+            "type": "bowl",
+            "value": 8.5,
+            "team": "KKR"
+        },
+        {
+            "id": 10,
+            "name": "kuldeep",
+            "type": "bowl",
+            "value": 8.5,
+            "team": "KKR"
+        },
+        {
+            "id": 11,
+            "name": "lockie",
+            "type": "bowl",
+            "value": 8.5,
+            "team": "KKR"
+        },
+        {
+            "id": 12,
+            "name": "bairstow",
+            "type": "wk",
+            "value": 10,
+            "team": "SRH"
+        },
+        {
+            "id": 13,
+            "name": "warner",
+            "type": "bat",
+            "value": 10.5,
+            "team": "SRH"
+        },
+        {
+            "id": 14,
+            "name": "williamson",
+            "type": "bat",
+            "value": 9.5,
+            "team": "SRH"
+        },
+        {
+            "id": 15,
+            "name": "garg",
+            "type": "bat",
+            "value": 8,
+            "team": "SRH"
+        },
+        {
+            "id": 16,
+            "name": "pandey",
+            "type": "bat",
+            "value": 9,
+            "team": "SRH"
+        },
+        {
+            "id": 17,
+            "name": "shankar",
+            "type": "all",
+            "value": 8,
+            "team": "SRH"
+        },
+        {
+            "id": 18,
+            "name": "samad",
+            "type": "all",
+            "value": 8,
+            "team": "SRH"
+        },
+        {
+            "id": 19,
+            "name": "natrajan",
+            "type": "bowl",
+            "value": 8.5,
+            "team": "SRH"
+        },
+        {
+            "id": 20,
+            "name": "rashid",
+            "type": "bowl",
+            "value": 9.5,
+            "team": "SRH"
+        },
+        {
+            "id": 21,
+            "name": "thampi",
+            "type": "bowl",
+            "value": 8,
+            "team": "SRH"
+        },
+        {
+            "id": 22,
+            "name": "sandeep",
+            "type": "bowl",
+            "value": 8,
+            "team": "SRH"
+        }
+    ]
+    ,
+    "rules":{
+        "must_include_players":[],
+        "must_ignore_players": []
+    }
+}
